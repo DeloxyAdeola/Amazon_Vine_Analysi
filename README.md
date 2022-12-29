@@ -4,7 +4,7 @@ This project purpose is basically working with big data and how ETL processes ca
 RESULTS
 HOW MANY VINE REVIEWS AND NONE -VINE REVIEWS WERE THERE?
 
- [alt text](image_url) syntax.
+ [alt text](https://github.com/DeloxyAdeola/Amazon_Vine_Analysi/blob/main/fig/fig%201.png)
 
 Total number of Vine reviews:21
 Total number of non-vine reviews: 7689
