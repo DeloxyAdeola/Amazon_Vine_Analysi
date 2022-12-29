@@ -4,6 +4,8 @@ This project purpose is basically working with big data and how ETL processes ca
 RESULTS
 HOW MANY VINE REVIEWS AND NONE -VINE REVIEWS WERE THERE?
 
+ [alt text](image_url) syntax.
+
 Total number of Vine reviews:21
 Total number of non-vine reviews: 7689
 Total number of Vine reviews that were 5 stars were 11
